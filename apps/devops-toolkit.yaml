@@ -11,7 +11,7 @@ spec:
       sourceRef:
         kind: GitRepository
         name: devops-toolkit
-  interval: 30s
+  interval: 31s
   targetNamespace: staging
   values:
     image:
